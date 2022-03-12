@@ -1,2 +1,1 @@
-# CPE106L---B1---Group-2
-Repository of Lab Exercises
+# CPE106L_B1_3Q2122_Labs
